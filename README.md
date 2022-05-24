@@ -2,11 +2,11 @@
 ____
 HALOOO...HALLOOOOO 👋:wave::wave:...
 
-Repositori ini dibuat dalam rangka memenuhi tugas akhir Praktikum Pemodelan Oseanografi 2022. Dalam repositori ini memuat terkait dengan pembahasan modul 1 hingga modul 4 beserta script pemodelan yang digunakan dalam praktikum
+Repositori ini dibuat dalam rangka memenuhi tugas akhir Praktikum Pemodelan Oseanografi 2022. Dalam repositori ini memuat terkait dengan pembahasan modul 1  hingga modul 4 yang menan membahas Adveksi-Difusi 1 dimensi & 2 dimensi dan Permodelan Oseanografi 1 dimensi & 2 dimensi. Modul dalam repositori ini memuat Teori dasar, Tools dan script yang digunakan, Contoh hasil disertakan  analisis 
 
 # Penulis (Kelompok 8)
 1. Adnan Izzul Muttaqin    26050120130102 OSE A
-2. Dika Surya Pratama
+2. Dika Surya Pratama      26050120120011 OSE A
 3. Anindita Rahma Candrasekar 26050120130111 OSE A
 4. Eldeenio Akeyla Ibrahim
 5. Zalfa Karima
@@ -42,11 +42,6 @@ u(𝑥,t).
   ***
 * Seperti yang telah dijelaskan di pendahuluan, pada modul 2 ini kita perlu menggunakan library berupa matplotlib dan numpy. Matplotlib berfungsi untuk membuat plot grafik dari hasil running script yang telah dilakukan. sedangkan numpy berfungsi untuk melakukan perhitungan data yang akan dianalisis, sehingga langkah awal dalam pemodelan ini perlu dilakukan import kedua library tersebut. script tersebut seperti yang ada dibawah ini.
 
-```python
-import matplotlib.pyplot as plt
-import numpy as np
-import sys
-```
 
 ## :card_index_dividers: **MODUL 3 : HIDRODINAMIKA 1 DIMENSI**
 ### :label: Pendahuluan 
